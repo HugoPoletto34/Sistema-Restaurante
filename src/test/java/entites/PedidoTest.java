@@ -61,5 +61,22 @@ public class PedidoTest {
         .sum());
     
     }
+
+
+    @Test
+    public void testTotalPorPedido() throws IOException{
+
+        Cliente c = new Cliente("Pedro");
+
+        Pedido pedido1 = new Pedido(new Data(), new Pizza());
+        pedido1.addItem(new Tropeiro());
+
+        c.addPedido(pedido1);
+    
+        ClienteDAO.add(c);
+
+        assertEquals(35.00, ClienteDAO.getReferenceById("Pedro").getPedidos().getFirst().valorTotal());
+    
+    }
     
 }
