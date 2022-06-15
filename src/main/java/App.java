@@ -101,6 +101,22 @@ public class App {
         obj.close();
     }
 
+
+    
+    /**
+     * Gravação serializada do conjunto de clientes
+     * 
+     * @param clientes Conjunto de clientes a salvar
+     * @throws IOException Em caso de erro na escrita ou abertura do arquivo
+     *                     (propagação de exceção)
+     */
+    public static void gravarDados(Cliente c) throws IOException {
+        ObjectOutputStream obj = new ObjectOutputStream(new FileOutputStream(arqDados));
+            obj.writeObject(c);
+        obj.close();
+    }
+
+
     /**
      * Carrega dados do arquivo de clientes serialiado. Tratamento de diversas
      * exceções
