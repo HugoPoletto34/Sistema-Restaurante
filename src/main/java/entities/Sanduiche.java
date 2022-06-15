@@ -65,8 +65,7 @@ public class Sanduiche extends Comida {
     /**
      * Calcula o valor dos adicionais, aproveitando e estendendo o método-base (que tem valor dos ingredientes)
      * @return double Valor de todos os adicionais de um sanduíche
-     */
-    protected double precoAdicionais(){
+     */ public double precoAdicionais(){
         double aux = super.precoAdicionais();
         
         if(this.opcaoVegana)
