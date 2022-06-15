@@ -1,14 +1,14 @@
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
-import java.io.IOException;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import org.junit.jupiter.api.Test;
 
-import entities.Cliente;
-
 public class AppTest {
 
+    @Test
+    public void testApp() {
+
+        App.configurarMenu();
+        assertNotNull(App.todasAsFabricas, "Fabrica não foi inicializada!");
+    }
 
 }
