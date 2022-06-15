@@ -5,54 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5866af66-8797-4189-9c0d-e8870104ad16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/cardapio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/clientes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/fabricas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/menuCliente.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/menuPedido.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/menuRelatorios.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/pedidos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake-database/tudo.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppGerador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IngredienteClasseJava.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RestauranteFinal.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Cliente10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Cliente25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/ClienteRegular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Sanduiche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Tropeiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/Ingrediente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/ComidaInvalidaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/ColecaoFabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaBaconBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaComida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaPizzaCalabresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaSanduiche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factories/FabricaTropeiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/IFabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/IFidelizavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/entites/ComidaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1655334376" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="pedro" />
+                    <option name="lastUsedInstant" value="1655333576" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,17 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hugop/Pasta-Pessoal/Sistema-Restaurante/fake-database",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hugop/Pasta-Pessoal/Sistema-Restaurante/fake-database&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hugop\Pasta-Pessoal\Sistema-Restaurante\fake-database" />
@@ -85,25 +81,93 @@
       <recent name="C:\Users\hugop\Pasta-Pessoal\Sistema-Restaurante\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
+  <component name="RunManager" selected="JUnit.ComidaTest">
+    <configuration name="ComidaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppGerador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppGerador" />
+    <configuration name="ComidaTest.adicionarIgredientesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
+      <option name="METHOD_NAME" value="adicionarIgredientesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComidaTest.precoAdicionaisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
+      <option name="METHOD_NAME" value="precoAdicionaisTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComidaTest.precoFinalBaseSanduiche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
+      <option name="METHOD_NAME" value="precoFinalBaseSanduiche" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComidaTest.precoFinalBaseTropeiro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
+      <option name="METHOD_NAME" value="precoFinalBaseTropeiro" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.AppGerador" />
+        <item itemvalue="JUnit.ComidaTest" />
+        <item itemvalue="JUnit.ComidaTest.precoAdicionaisTest" />
+        <item itemvalue="JUnit.ComidaTest.adicionarIgredientesTest" />
+        <item itemvalue="JUnit.ComidaTest.precoFinalBaseTropeiro" />
+        <item itemvalue="JUnit.ComidaTest.precoFinalBaseSanduiche" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +189,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
           <line>111</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/entites/ComidaTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

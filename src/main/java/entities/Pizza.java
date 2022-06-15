@@ -72,7 +72,7 @@ public class Pizza extends Comida {
      * @return double Valor de todos os adicionais da pizza
      */
     @Override
-    protected double precoAdicionais(){
+    public double precoAdicionais(){
         double aux = super.precoAdicionais();
         
         aux*=MULTIP_INGREDIENTE;

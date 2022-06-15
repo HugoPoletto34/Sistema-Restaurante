@@ -40,7 +40,7 @@ public abstract class Comida implements Comparable<Comida>, Serializable {
     //#region atributos
     public String descricao;
     protected double precoBase=0d;  
-    protected List<Ingrediente> ingredientes;
+    public List<Ingrediente> ingredientes;
     
 
     //#endregion 
