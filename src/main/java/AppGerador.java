@@ -90,7 +90,7 @@ public class AppGerador {
      * @return HashMap com o nome como chave e o cliente como valor
      * @throws IOException Arquivo não encontrado
      */
-    private static TreeSet<Cliente> carregarClientes(String nomeArq) throws IOException {
+    public static TreeSet<Cliente> carregarClientes(String nomeArq) throws IOException {
         Scanner leitor = new Scanner(new File(nomeArq), "UTF-8");
         TreeSet<Cliente> clientes = new TreeSet<>();
         while (leitor.hasNextLine()) {

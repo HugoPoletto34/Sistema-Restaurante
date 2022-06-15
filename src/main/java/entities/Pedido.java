@@ -59,6 +59,10 @@ public class Pedido implements Comparable<Pedido>, Serializable{
         return this.valorPago;
     }
 
+    public int getQuantItens(){
+       return this.itens.size();
+    }
+
     /**
      * Valor efetivamente pago pelo pedido, considerando possíveis descontos no preço original.
      * @param valor Valor a ser registrado como pago. 
