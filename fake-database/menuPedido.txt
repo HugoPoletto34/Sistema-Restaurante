@@ -1,0 +1,4 @@
+Novo pedido
+Incluir comida em pedido
+Detalhes do pedido
+Fechar pedido

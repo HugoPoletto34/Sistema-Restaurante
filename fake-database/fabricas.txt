@@ -1,0 +1,5 @@
+pizza;factories.FabricaPizza
+Sanduiche;factories.FabricaSanduiche
+Bacon burger;factories.FabricaBaconBurger
+Tropeiro;factories.FabricaTropeiro
+pizza calabresa;factories.FabricaPizzaCalabresa

@@ -1,0 +1,1151 @@
+XULAMBS BUERGER & PIZZA
+Relatório em 25/05/2022
+
+[
+=====================
+Pedido nº 1 - 02/03/2022
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$35.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$50.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+bacon - R$ 3.0
+Valor a pagar: 	R$19.0
+-----
+TOTAL DO PEDIDO: R$129.5
+Valor pago pelo cliente: R$129.5
+=====================
+, 
+=====================
+Pedido nº 43 - 12/11/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+bacon - R$ 3.0
+Valor a pagar: 	R$20.5
+-----
+TOTAL DO PEDIDO: R$20.5
+Valor pago pelo cliente: R$20.5
+=====================
+, 
+=====================
+Pedido nº 2 - 10/12/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$22.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+TOTAL DO PEDIDO: R$162.5
+Valor pago pelo cliente: R$162.5
+=====================
+, 
+=====================
+Pedido nº 3 - 22/12/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+TOTAL DO PEDIDO: R$17.5
+Valor pago pelo cliente: R$13.125
+=====================
+, 
+=====================
+Pedido nº 4 - 06/09/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$40.5
+-----
+TOTAL DO PEDIDO: R$40.5
+Valor pago pelo cliente: R$30.375
+=====================
+, 
+=====================
+Pedido nº 5 - 08/10/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$40.5
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+TOTAL DO PEDIDO: R$92.0
+Valor pago pelo cliente: R$69.0
+=====================
+, 
+=====================
+Pedido nº 48 - 08/06/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$38.5
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$22.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+TOTAL DO PEDIDO: R$168.5
+Valor pago pelo cliente: R$168.5
+=====================
+, 
+=====================
+Pedido nº 49 - 22/08/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+bacon - R$ 3.0
+Valor a pagar: 	R$20.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$17.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$42.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$38.5
+-----
+TOTAL DO PEDIDO: R$160.0
+Valor pago pelo cliente: R$120.0
+=====================
+, 
+=====================
+Pedido nº 50 - 21/02/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$69.0
+Valor pago pelo cliente: R$51.75
+=====================
+, 
+=====================
+Pedido nº 51 - 01/05/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$40.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+bacon - R$ 3.0
+Valor a pagar: 	R$18.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+TOTAL DO PEDIDO: R$127.0
+Valor pago pelo cliente: R$95.25
+=====================
+, 
+=====================
+Pedido nº 52 - 27/06/2022
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+TOTAL DO PEDIDO: R$31.0
+Valor pago pelo cliente: R$23.25
+=====================
+, 
+=====================
+Pedido nº 53 - 20/11/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+cheddar - R$ 2.0
+Valor a pagar: 	R$19.5
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+TOTAL DO PEDIDO: R$98.5
+Valor pago pelo cliente: R$73.875
+=====================
+, 
+=====================
+Pedido nº 54 - 21/12/2022
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$50.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$144.5
+Valor pago pelo cliente: R$108.375
+=====================
+, 
+=====================
+Pedido nº 11 - 21/11/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+TOTAL DO PEDIDO: R$17.5
+Valor pago pelo cliente: R$17.5
+=====================
+, 
+=====================
+Pedido nº 12 - 21/11/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$19.5
+-----
+TOTAL DO PEDIDO: R$101.5
+Valor pago pelo cliente: R$101.5
+=====================
+, 
+=====================
+Pedido nº 13 - 15/06/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$50.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$45.5
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$18.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$38.0
+-----
+TOTAL DO PEDIDO: R$206.5
+Valor pago pelo cliente: R$206.5
+=====================
+, 
+=====================
+Pedido nº 14 - 22/08/2022
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$13.0
+Valor pago pelo cliente: R$9.75
+=====================
+, 
+=====================
+Pedido nº 15 - 09/11/2022
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+TOTAL DO PEDIDO: R$67.0
+Valor pago pelo cliente: R$50.25
+=====================
+, 
+=====================
+Pedido nº 16 - 22/01/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$42.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$40.0
+-----
+TOTAL DO PEDIDO: R$107.5
+Valor pago pelo cliente: R$80.625
+=====================
+, 
+=====================
+Pedido nº 17 - 18/07/2022
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$43.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$40.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+TOTAL DO PEDIDO: R$174.5
+Valor pago pelo cliente: R$130.875
+=====================
+, 
+=====================
+Pedido nº 27 - 04/01/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$44.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$42.5
+-----
+TOTAL DO PEDIDO: R$87.0
+Valor pago pelo cliente: R$87.0
+=====================
+, 
+=====================
+Pedido nº 28 - 26/10/2022
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+TOTAL DO PEDIDO: R$121.0
+Valor pago pelo cliente: R$121.0
+=====================
+, 
+=====================
+Pedido nº 29 - 25/06/2022
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$40.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+bacon - R$ 3.0
+Valor a pagar: 	R$18.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$146.0
+Valor pago pelo cliente: R$146.0
+=====================
+, 
+=====================
+Pedido nº 30 - 20/10/2022
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$38.0
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+TOTAL DO PEDIDO: R$55.5
+Valor pago pelo cliente: R$41.625
+=====================
+, 
+=====================
+Pedido nº 31 - 09/05/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$47.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$42.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$209.0
+Valor pago pelo cliente: R$156.75
+=====================
+, 
+=====================
+Pedido nº 32 - 04/02/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+TOTAL DO PEDIDO: R$96.5
+Valor pago pelo cliente: R$72.375
+=====================
+, 
+=====================
+Pedido nº 33 - 25/11/2022
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$43.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$84.0
+Valor pago pelo cliente: R$63.0
+=====================
+, 
+=====================
+Pedido nº 34 - 05/02/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$45.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$189.5
+Valor pago pelo cliente: R$142.125
+=====================
+, 
+=====================
+Pedido nº 44 - 17/03/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$47.5
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$35.0
+-----
+TOTAL DO PEDIDO: R$82.5
+Valor pago pelo cliente: R$82.5
+=====================
+, 
+=====================
+Pedido nº 45 - 08/07/2022
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$38.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$51.0
+Valor pago pelo cliente: R$51.0
+=====================
+, 
+=====================
+Pedido nº 46 - 10/10/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+cheddar - R$ 2.0
+Valor a pagar: 	R$19.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$41.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$38.5
+-----
+TOTAL DO PEDIDO: R$99.5
+Valor pago pelo cliente: R$99.5
+=====================
+, 
+=====================
+Pedido nº 47 - 06/06/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$47.5
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$139.0
+Valor pago pelo cliente: R$104.25
+=====================
+, 
+=====================
+Pedido nº 55 - 25/05/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+TOTAL DO PEDIDO: R$25.0
+Valor pago pelo cliente: R$18.75
+=====================
+, 
+=====================
+Pedido nº 6 - 20/11/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$45.5
+-----
+TOTAL DO PEDIDO: R$93.0
+Valor pago pelo cliente: R$93.0
+=====================
+, 
+=====================
+Pedido nº 7 - 23/12/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$37.0
+-----
+TOTAL DO PEDIDO: R$144.0
+Valor pago pelo cliente: R$144.0
+=====================
+, 
+=====================
+Pedido nº 8 - 21/01/2022
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+TOTAL DO PEDIDO: R$16.0
+Valor pago pelo cliente: R$12.0
+=====================
+, 
+=====================
+Pedido nº 9 - 03/08/2022
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+bacon - R$ 3.0
+Valor a pagar: 	R$18.0
+-----
+TOTAL DO PEDIDO: R$34.0
+Valor pago pelo cliente: R$25.5
+=====================
+, 
+=====================
+Pedido nº 10 - 23/08/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$38.0
+Valor pago pelo cliente: R$28.5
+=====================
+, 
+=====================
+Pedido nº 35 - 26/04/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$33.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$37.0
+-----
+TOTAL DO PEDIDO: R$108.0
+Valor pago pelo cliente: R$108.0
+=====================
+, 
+=====================
+Pedido nº 36 - 23/10/2022
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$37.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$116.5
+Valor pago pelo cliente: R$116.5
+=====================
+, 
+=====================
+Pedido nº 37 - 18/11/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+bacon - R$ 3.0
+Valor a pagar: 	R$19.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$38.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+TOTAL DO PEDIDO: R$176.0
+Valor pago pelo cliente: R$132.0
+=====================
+, 
+=====================
+Pedido nº 38 - 05/08/2022
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+TOTAL DO PEDIDO: R$49.0
+Valor pago pelo cliente: R$36.75
+=====================
+, 
+=====================
+Pedido nº 39 - 23/07/2022
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$40.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+TOTAL DO PEDIDO: R$114.5
+Valor pago pelo cliente: R$85.875
+=====================
+, 
+=====================
+Pedido nº 40 - 25/02/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$47.5
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$40.0
+-----
+TOTAL DO PEDIDO: R$154.0
+Valor pago pelo cliente: R$115.5
+=====================
+, 
+=====================
+Pedido nº 41 - 08/08/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+cheddar - R$ 2.0
+Valor a pagar: 	R$19.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Sanduíche - 	R$13.0
+Valor a pagar: 	R$13.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+TOTAL DO PEDIDO: R$119.0
+Valor pago pelo cliente: R$89.25
+=====================
+, 
+=====================
+Pedido nº 42 - 24/06/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$35.0
+-----
+TOTAL DO PEDIDO: R$77.5
+Valor pago pelo cliente: R$58.125
+=====================
+, 
+=====================
+Pedido nº 18 - 16/12/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$50.5
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+Valor a pagar: 	R$17.5
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$33.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$38.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$38.5
+-----
+TOTAL DO PEDIDO: R$178.0
+Valor pago pelo cliente: R$178.0
+=====================
+, 
+=====================
+Pedido nº 19 - 22/07/2022
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+TOTAL DO PEDIDO: R$31.0
+Valor pago pelo cliente: R$23.25
+=====================
+, 
+=====================
+Pedido nº 20 - 22/02/2022
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$35.0
+-----
+TOTAL DO PEDIDO: R$35.0
+Valor pago pelo cliente: R$26.25
+=====================
+, 
+=====================
+Pedido nº 21 - 10/06/2022
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$31.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$37.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$44.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$36.5
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+bacon - R$ 3.0
+Valor a pagar: 	R$19.0
+-----
+TOTAL DO PEDIDO: R$193.0
+Valor pago pelo cliente: R$144.75
+=====================
+, 
+=====================
+Pedido nº 22 - 12/03/2022
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+Valor a pagar: 	R$32.5
+-----
+TOTAL DO PEDIDO: R$82.5
+Valor pago pelo cliente: R$61.875
+=====================
+, 
+=====================
+Pedido nº 23 - 15/07/2022
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$44.5
+-----
+Pizza com borda recheada.  - 	R$32.5
+bacon - R$ 3.0 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$47.5
+-----
+Pizza - 	R$25.0
+Valor a pagar: 	R$25.0
+-----
+Pizza com borda recheada.  - 	R$32.5
+bolonhesa - R$ 4.5 x2
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$50.5
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+TOTAL DO PEDIDO: R$201.5
+Valor pago pelo cliente: R$151.125
+=====================
+, 
+=====================
+Pedido nº 24 - 11/01/2022
+-----
+Sanduíche - 	R$13.0
+bacon - R$ 3.0
+Valor a pagar: 	R$16.0
+-----
+Pizza - 	R$25.0
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$29.0
+-----
+TOTAL DO PEDIDO: R$45.0
+Valor pago pelo cliente: R$33.75
+=====================
+, 
+=====================
+Pedido nº 25 - 07/12/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+cheddar - R$ 2.0
+Valor a pagar: 	R$19.5
+-----
+Sanduíche - 	R$13.0
+cheddar - R$ 2.0
+Valor a pagar: 	R$15.0
+-----
+Pizza - 	R$25.0
+bacon - R$ 3.0 x2
+cheddar - R$ 2.0 x2
+Valor a pagar: 	R$35.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+Valor a pagar: 	R$34.0
+-----
+Pizza - 	R$25.0
+bolonhesa - R$ 4.5 x2
+bacon - R$ 3.0 x2
+Valor a pagar: 	R$40.0
+-----
+TOTAL DO PEDIDO: R$143.5
+Valor pago pelo cliente: R$107.625
+=====================
+, 
+=====================
+Pedido nº 26 - 25/09/2022
+-----
+Sanduíche - 	R$13.0
+bolonhesa - R$ 4.5
+cheddar - R$ 2.0
+Valor a pagar: 	R$19.5
+-----
+TOTAL DO PEDIDO: R$19.5
+Valor pago pelo cliente: R$14.625
+=====================
+]
