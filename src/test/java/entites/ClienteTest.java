@@ -85,51 +85,7 @@ public class ClienteTest {
     
     }
 
-    @Test
-    public void testAddItemPedido() throws IOException{
-
-        Cliente c = new Cliente("Pedro");
-
-        Pedido pedido1 = new Pedido(new Data(), new Pizza());
-        pedido1.addItem(new Pizza());
-
-        Pedido pedido2 = new Pedido(new Data(), new Sanduiche());
-
-        c.addPedido(pedido1);
-        c.addPedido(pedido2);
-
-        ClienteDAO.add(c);
-
-        assertEquals(3, ClienteDAO.getReferenceById("Pedro")
-        .getPedidos()
-        .stream()
-        .mapToInt(Pedido::getQuantItens)
-        .sum());
-    
-    }
-
-    
-    @Test
-    public void testAddCancelaPedido() throws IOException{
-
-        Cliente c = new Cliente("Pedro");
-
-        Pedido pedido1 = new Pedido(new Data(), new Pizza());
-        pedido1.addItem(new Tropeiro());
-        pedido1.addItem(new Sanduiche());
-        pedido1.cancelaItem(new Pizza());
-
-        c.addPedido(pedido1);
-    
-        ClienteDAO.add(c);
-
-        assertEquals(2, ClienteDAO.getReferenceById("Pedro")
-        .getPedidos()
-        .stream()
-        .mapToInt(Pedido::getQuantItens)
-        .sum());
-    
-    }
+  
 
 
 }
