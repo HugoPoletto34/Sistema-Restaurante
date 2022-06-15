@@ -13,6 +13,7 @@ import entities.Data;
 import entities.Pedido;
 import entities.Pizza;
 import entities.Sanduiche;
+import entities.Tropeiro;
 
 public class ClienteTest {
     
@@ -100,6 +101,29 @@ public class ClienteTest {
         ClienteDAO.add(c);
 
         assertEquals(3, ClienteDAO.getReferenceById("Pedro")
+        .getPedidos()
+        .stream()
+        .mapToInt(Pedido::getQuantItens)
+        .sum());
+    
+    }
+
+    
+    @Test
+    public void testAddCancelaPedido() throws IOException{
+
+        Cliente c = new Cliente("Pedro");
+
+        Pedido pedido1 = new Pedido(new Data(), new Pizza());
+        pedido1.addItem(new Tropeiro());
+        pedido1.addItem(new Sanduiche());
+        pedido1.cancelaItem(new Pizza());
+
+        c.addPedido(pedido1);
+    
+        ClienteDAO.add(c);
+
+        assertEquals(2, ClienteDAO.getReferenceById("Pedro")
         .getPedidos()
         .stream()
         .mapToInt(Pedido::getQuantItens)
