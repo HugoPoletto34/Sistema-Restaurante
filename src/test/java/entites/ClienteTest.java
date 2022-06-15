@@ -36,7 +36,7 @@ public class ClienteTest {
 
         ClienteDAO.add(c);
 
-        assertFalse(ClienteDAO.getReferenceById("Pedro").relatorioPedidos().isEmpty(), "O relatório do pedido está vazio!");
+        assertFalse(ClienteDAO.getReferenceById("Pedro").relatorioPedidos().isEmpty(), "O relatório de pedidos do cliente está vazio!");
     
     }
 

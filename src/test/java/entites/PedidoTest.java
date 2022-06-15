@@ -1,6 +1,7 @@
 package entites;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 
 import java.io.IOException;
 
@@ -76,6 +77,24 @@ public class PedidoTest {
         ClienteDAO.add(c);
 
         assertEquals(35.00, ClienteDAO.getReferenceById("Pedro").getPedidos().getFirst().valorTotal());
+    
+        assertFalse(ClienteDAO.getReferenceById("Pedro").relatorioPedidos().isEmpty(), "O relatório do pedido está vazio!");
+    
+    }
+
+    @Test
+    public void testRelatorioPorPedido() throws IOException{
+
+        Cliente c = new Cliente("Pedro");
+
+        Pedido pedido1 = new Pedido(new Data(), new Pizza());
+        pedido1.addItem(new Tropeiro());
+
+        c.addPedido(pedido1);
+    
+        ClienteDAO.add(c);
+
+        assertFalse(ClienteDAO.getReferenceById("Pedro").getPedidos().getFirst().relatorio().isEmpty(), "O relatório do pedido está vazio!");
     
     }
     
