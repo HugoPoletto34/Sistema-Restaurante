@@ -21,6 +21,7 @@ package entities; /**
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+import interfaces.ClienteRegular;
 import interfaces.IFidelizavel;
 
 import java.io.Serializable;
