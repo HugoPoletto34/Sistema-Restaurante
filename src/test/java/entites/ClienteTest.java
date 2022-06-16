@@ -13,7 +13,6 @@ import entities.Data;
 import entities.Pedido;
 import entities.Pizza;
 import entities.Sanduiche;
-import entities.Tropeiro;
 
 public class ClienteTest {
     

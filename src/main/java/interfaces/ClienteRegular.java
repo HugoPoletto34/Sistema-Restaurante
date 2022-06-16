@@ -1,4 +1,4 @@
-package entities; /**
+package interfaces; /**
  * MIT License
  *
  * Copyright(c) 2022 João Caram <caram@pucminas.br>
@@ -22,40 +22,39 @@ package entities; /**
  * SOFTWARE.
  */
 
-import interfaces.IFidelizavel;
-
 import java.time.LocalDate;
 import java.util.List;
-/**
- * Implementa o cliente com 25% de desconto
- */
-public class Cliente25 implements IFidelizavel {
+
+import entities.Data;
+import entities.Pedido;
+
+/** entities.Cliente regular: sem descontos, mas pode subir de categoria */
+public class ClienteRegular implements IFidelizavel {
     static LocalDate x = LocalDate.now();
     static Data hoje = new Data(x.getDayOfMonth(), x.getMonthValue());
-    static double DESCONTO = 0.25;
-    static double VALOR_MUDANCA = Double.MAX_VALUE;
-    static int PEDIDOS_MUDANCA = Integer.MAX_VALUE;
+    static double DESCONTO = 0.00;
+    static double VALOR_MUDANCA = 150;
+    static int PEDIDOS_MUDANCA = 10;
 
 
-    /**
+     /**
      * Próxima categoria (acima desta)
-     * @return Objeto de entities.Cliente25
+     * @return Objeto de entities.Cliente10
      */
     private IFidelizavel getProximo() {
-        return new Cliente25();
+        return null;
     }
 
     /**
      * Categoria anterior (abaixo desta)
-     * @return Objeto de entities.Cliente10
+     * @return Objeto de entities.ClienteRegular
      */
     private IFidelizavel getAnterior() {
-        return new Cliente10();
+        return this;
     }
 
-
     @Override
-     /**
+    /**
      * Aplica o desconto do cliente no valor recebido como parâmetro
      * @param valor Valor original do produto
      * @return double Valor a descontar no preço pago
@@ -72,22 +71,20 @@ public class Cliente25 implements IFidelizavel {
      * @return interfaces.IFidelizavel com a categoria atual do cliente
      */
     public IFidelizavel verificarCategoria(List<Pedido> pedidos) {
-
         double valorPedidos = pedidos.stream()
-                                    .filter(p -> p.getData().acrescentaDias(IFidelizavel.PRAZO_FIDELIDADE).maisFutura(hoje))
+                                    .filter(p -> p.getData().acrescentaDias(PRAZO_FIDELIDADE).maisFutura(hoje))
                                     .mapToDouble(Pedido::getValorPago)
                                     .sum();
 
         long contPedidos = pedidos.stream()
-                                  .filter(p -> p.getData().acrescentaDias(IFidelizavel.PRAZO_FIDELIDADE).maisFutura(hoje))
+                                  .filter(p -> p.getData().acrescentaDias(PRAZO_FIDELIDADE).maisFutura(hoje))
                                   .count();
-
 
         if((valorPedidos>=VALOR_MUDANCA) || (contPedidos>=PEDIDOS_MUDANCA))
             return this.getProximo();
         else
-            return this.getAnterior().verificarCategoria(pedidos);
-
+            return this.getAnterior();
+        
     }
 
     
