@@ -121,7 +121,7 @@ public class App {
      * Carrega dados do arquivo de clientes serialiado. Tratamento de diversas
      * exceções
      * 
-     * @param teclado Scanner de teclado para pausa
+     * @param nomeArq nome do arquivo a ser carregado
      * @return Um TreeSet com os clientes e seus pedidos
      */
     public static Set<Cliente> carregarDados(Scanner teclado) {
@@ -474,7 +474,7 @@ public class App {
         } catch (NullPointerException ex) {
             System.out.println("entities.Cliente não encontrado. Cadastrar cliente.");
             pausa(teclado);
-            clienteAtual = cadastrarCliente();
+            clienteAtual = cadastrarCliente()   ;
             conjuntoClientes.add(clienteAtual);
         }
 

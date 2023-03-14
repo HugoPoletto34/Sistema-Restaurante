@@ -1,0 +1,15 @@
+
+
+java:S1319"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(á°Î¾ûÿÿÿÿ
+e
+java:S2095("OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(şÇ 
+c
+java:S2095'"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¿î‘³
+f
+java:S20959"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(‰ì‘
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Õ×•¿
+Z
+java:S21470"DCombine this catch with the one at line 46, which has the same body.(ıàÑÎ
+M
+java:S11351"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

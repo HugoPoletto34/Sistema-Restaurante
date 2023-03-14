@@ -1,0 +1,16 @@
+
+•
+java:S1319]"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(‰ÒÕìşÿÿÿÿ8ò¹Ì–0
+^
+java:S2259Š"BA "NullPointerException" could be thrown; "nova" is nullable here.(µ°Š¸úÿÿÿÿ
+h
+java:S2095I"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(åıËûÿÿÿÿ
+k
+java:S2095:"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¬Ÿ£œÿÿÿÿÿ
+e
+java:S2095J"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(şÇ 
+T
+java:S4719^"9Replace charset name argument with StandardCharsets.UTF_8(’°ËÔşÿÿÿÿ
+<	java:S131~""Add a default case to this switch.(¶ŸİÔùÿÿÿÿ
+F
+java:S1905©"*Remove this unnecessary cast to "TreeSet".(°³øşÿÿÿÿ

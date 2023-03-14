@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5866af66-8797-4189-9c0d-e8870104ad16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/entites/ComidaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fake-database/clientes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fake-database/clientes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,29 @@
       <recent name="C:\Users\hugop\Pasta-Pessoal\Sistema-Restaurante\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ComidaTest">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Sistema-Restaurante" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sistema-Restaurante" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entites" />
+      <option name="MAIN_CLASS_NAME" value="entites.ClienteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComidaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sistema-Restaurante" />
       <extension name="coverage">
@@ -93,22 +115,6 @@
       <option name="PACKAGE_NAME" value="entites" />
       <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComidaTest.adicionarIgredientesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sistema-Restaurante" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="entites.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="entites" />
-      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
-      <option name="METHOD_NAME" value="adicionarIgredientesTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,7 +135,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComidaTest.precoFinalBaseSanduiche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PedidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sistema-Restaurante" />
       <extension name="coverage">
         <pattern>
@@ -138,36 +144,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="entites" />
-      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
-      <option name="METHOD_NAME" value="precoFinalBaseSanduiche" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComidaTest.precoFinalBaseTropeiro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sistema-Restaurante" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="entites.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="entites" />
-      <option name="MAIN_CLASS_NAME" value="entites.ComidaTest" />
-      <option name="METHOD_NAME" value="precoFinalBaseTropeiro" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="entites.PedidoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.ComidaTest" />
+        <item itemvalue="JUnit.PedidoTest" />
+        <item itemvalue="JUnit.ClienteTest" />
         <item itemvalue="JUnit.ComidaTest.precoAdicionaisTest" />
-        <item itemvalue="JUnit.ComidaTest.adicionarIgredientesTest" />
-        <item itemvalue="JUnit.ComidaTest.precoFinalBaseTropeiro" />
-        <item itemvalue="JUnit.ComidaTest.precoFinalBaseSanduiche" />
       </list>
     </recent_temporary>
   </component>
@@ -191,9 +180,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/entites/ComidaTest.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
+          <line>503</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
